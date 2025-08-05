@@ -160,9 +160,8 @@ The app processes the following data from the API response:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
-Abiaba Mohamed
 **Your Name**
-- GitHub: [@saemanab](https://github.com/saemanab)
+- Abiaba Mohamed
 - Email: mohamedabiaba202@gmail.com
 
 ## 🙏 Acknowledgments
