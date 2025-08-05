@@ -2,9 +2,9 @@
 
 A beautiful and intuitive Android weather application that provides real-time weather information for any city worldwide. Built with Java and powered by the OpenWeatherMap API.
 
-## 📱 Screenshots
+## 📱 Screenshot
+<img width="853" height="428" alt="image" src="https://github.com/user-attachments/assets/5e953da8-b7db-42ac-99e6-afc629ce1d43" />
 
-![Weather App Preview](screenshots/app_preview.png)
 
 ## ✨ Features
 
